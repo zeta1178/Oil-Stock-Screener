@@ -1,1 +1,1 @@
-# Oil-Stock-Screener
+# Oil-Stock-Screener is a tool to pull in all US publicly traded CIK 1311 code financial information and stock ratios in order to determine which top 3 companies are investing in at their current financial and stock metrics.
