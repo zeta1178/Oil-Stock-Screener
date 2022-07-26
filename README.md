@@ -14,3 +14,15 @@ Notes for Project thus far
 #calculate the company ratios using SEC info
 #pull together and create the screener "elif"
 
+Tasks:
+Create Notebook showing Interest rates (M. Cruz, Yulianna)
+  Test Treasury API
+  Create Dataframe
+  Crete Surface Plot
+Create Notebook Line graph of Federal Reserve Monthly Recession Indicator (Cassandra)
+  Create CSV
+  Import CSV
+  Create Pandas DataFrame
+  Bonus: Establish equivalent API approach 
+  
+Demostrate relationship of Recession indicator and interest rates from Treasury (Cassandra, Henry)
